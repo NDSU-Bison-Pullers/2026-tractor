@@ -4639,7 +4639,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "81f7211e-d69d-4527-a1cc-87baa7d10783")
 		(property "Reference" "F7"
 			(at 209.55 128.27 90)
@@ -4651,7 +4650,7 @@
 			)
 		)
 		(property "Value" "Fuse"
-			(at 209.55 130.81 90)
+			(at 209.55 132.588 90)
 			(effects
 				(font
 					(size 1.27 1.27)
