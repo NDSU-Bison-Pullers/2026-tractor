@@ -4,6 +4,7 @@
 	(generator_version "9.0")
 	(uuid "614b9759-e400-4d9a-b999-e6a52a22018a")
 	(paper "A4")
+<<<<<<< HEAD
 	(lib_symbols
 		(symbol "4xxx:4060"
 			(exclude_from_sim no)
@@ -5610,6 +5611,9 @@
 			)
 		)
 	)
+=======
+	(lib_symbols)
+>>>>>>> 1bd7c4d8706e629220071537cd0edb5944bc672b
 	(sheet_instances
 		(path "/"
 			(page "1")
