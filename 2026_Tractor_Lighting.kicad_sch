@@ -1881,7 +1881,7 @@
 		(stroke
 			(width 0)
 			(type default)
-			(color 159 70 255 1)
+			(color 251 255 112 1)
 		)
 		(uuid "0a58e4db-1dc2-4bdd-85d6-07b1a2d47a70")
 	)
@@ -1980,7 +1980,7 @@
 		(stroke
 			(width 0)
 			(type default)
-			(color 159 70 255 1)
+			(color 251 255 112 1)
 		)
 		(uuid "2a25aa8a-a690-4e51-9838-ce2fcb9488b2")
 	)
@@ -2046,7 +2046,7 @@
 		(stroke
 			(width 0)
 			(type default)
-			(color 159 70 255 1)
+			(color 251 255 112 1)
 		)
 		(uuid "4ee9ddc1-9251-47c4-80eb-c8307d089cc1")
 	)
@@ -2057,6 +2057,7 @@
 		(stroke
 			(width 0)
 			(type default)
+			(color 251 255 112 1)
 		)
 		(uuid "5ff638df-8ef6-4053-ab05-b44a5e63437e")
 	)
@@ -2100,7 +2101,7 @@
 		(stroke
 			(width 0)
 			(type default)
-			(color 159 70 255 1)
+			(color 251 255 112 1)
 		)
 		(uuid "62b73de9-379e-4a21-8dbf-26a343388250")
 	)
@@ -2133,6 +2134,7 @@
 		(stroke
 			(width 0)
 			(type default)
+			(color 251 255 112 1)
 		)
 		(uuid "709024ff-12f8-45ed-a480-79a3ef080ffa")
 	)
@@ -2154,7 +2156,7 @@
 		(stroke
 			(width 0)
 			(type default)
-			(color 159 70 255 1)
+			(color 251 255 112 1)
 		)
 		(uuid "7271ab7d-b992-4021-9516-4574f44e67d9")
 	)
@@ -2165,7 +2167,7 @@
 		(stroke
 			(width 0)
 			(type default)
-			(color 159 70 255 1)
+			(color 251 255 112 1)
 		)
 		(uuid "728bcfde-48c9-4717-9401-8f8b6c369457")
 	)
@@ -2176,7 +2178,7 @@
 		(stroke
 			(width 0)
 			(type default)
-			(color 159 70 255 1)
+			(color 251 255 112 1)
 		)
 		(uuid "76468129-50cc-4dc3-96f6-4d65cab0409a")
 	)
@@ -2198,7 +2200,7 @@
 		(stroke
 			(width 0)
 			(type default)
-			(color 159 70 255 1)
+			(color 251 255 112 1)
 		)
 		(uuid "7bf62d88-ef04-4e9b-8221-09addfef481b")
 	)
@@ -2297,7 +2299,7 @@
 		(stroke
 			(width 0)
 			(type default)
-			(color 159 70 255 1)
+			(color 251 255 112 1)
 		)
 		(uuid "97039427-dd43-4756-9b9e-d2ff31ac61ff")
 	)
@@ -2308,7 +2310,7 @@
 		(stroke
 			(width 0)
 			(type default)
-			(color 159 70 255 1)
+			(color 251 255 112 1)
 		)
 		(uuid "9c1afc4d-672f-481f-ad87-b333a994cf2d")
 	)
@@ -2352,7 +2354,7 @@
 		(stroke
 			(width 0)
 			(type default)
-			(color 159 70 255 1)
+			(color 251 255 112 1)
 		)
 		(uuid "adae5acf-e2ae-41e8-99d6-f236a6cbf53d")
 	)
@@ -2407,7 +2409,7 @@
 		(stroke
 			(width 0)
 			(type default)
-			(color 159 70 255 1)
+			(color 251 255 112 1)
 		)
 		(uuid "bcc4f72a-b612-45b8-a623-d7d7cfcf3bc7")
 	)
@@ -2418,6 +2420,7 @@
 		(stroke
 			(width 0)
 			(type default)
+			(color 251 255 112 1)
 		)
 		(uuid "bf8781eb-224c-4174-bf44-3303cbee28fc")
 	)
@@ -2483,7 +2486,7 @@
 		(stroke
 			(width 0)
 			(type default)
-			(color 159 70 255 1)
+			(color 251 255 112 1)
 		)
 		(uuid "d71ceeed-3724-4cf4-8194-3391d7e21eca")
 	)
@@ -2527,7 +2530,7 @@
 		(stroke
 			(width 0)
 			(type default)
-			(color 159 70 255 1)
+			(color 251 255 112 1)
 		)
 		(uuid "da0bb2f8-7cc8-4a47-940b-15e2f414c425")
 	)
@@ -2582,6 +2585,7 @@
 		(stroke
 			(width 0)
 			(type default)
+			(color 251 255 112 1)
 		)
 		(uuid "e64e95f9-474b-4337-a27c-2e25fa7394ac")
 	)
@@ -2627,6 +2631,16 @@
 			(color 0 0 0 1)
 		)
 		(uuid "fbbdd939-991c-422e-a485-9a2cdd4ab1b1")
+	)
+	(label "white"
+		(at 260.35 119.38 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "ac4f3c7d-c650-44a8-ab1c-12f12c515174")
 	)
 	(label "Break Sensor"
 		(at 181.61 138.43 0)
